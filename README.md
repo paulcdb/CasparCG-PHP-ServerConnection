@@ -13,4 +13,4 @@ You can also modify button=play, to stop or getinfo.
 
 Big Thanks to tjenkinson for the original version. Was a huge help in getting setup with an easier way to push commands to CasparCG.
  on the iPad 
-My setup so far is using ActionPad (https://itunes.apple.com/app/actionpad/id1142860715?ls=1&mt=8, "ActionPad") on the iPad to grab the webpage on the CasparCG server.
+My setup so far is using ActionPad (https://itunes.apple.com/app/actionpad/id1142860715?ls=1&mt=8) on the iPad to grab the webpage on the CasparCG server.
